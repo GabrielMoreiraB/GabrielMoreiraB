@@ -1,4 +1,4 @@
-<img align="right" height="590em" src="https://gabrielmoreirab.github.io/card-gabrielgbm-readme/"/>
+<img align="right" height="590em" src="![image](https://user-images.githubusercontent.com/109036024/214407608-4bb51c37-f80a-48b9-b5e0-66239c9549cc.png)"/>
 
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Gabriel Moreira</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielmoreirab&color=yellow" alt="Profile views" /> </p>
