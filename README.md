@@ -7,9 +7,8 @@
 
 - 👨‍💻 More at [gabrielmoreira.dev]()
 
+![alt text](https://github.com/GabrielMoreiraB/card-gabrielgbm-readme/blob/main/card.svg)
 
-
-<br><br>
 
 ## 🛠 &nbsp;Tech Stack
 <!--
