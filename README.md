@@ -2,6 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=122A99&width=435&lines=Salve+Dev%2C+sou+o+Gabriel+Moreira!+;Seja+bem+vindo+ao+meu+GitHub+%F0%9F%98%8E)](https://git.io/typing-svg)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielmoreirab&color=yellow" alt="Profile views" /> </p>
 
 - 👩‍💻 Este é meu portifólio que contém a minha história como Desenvolvedor!
 - 📘 No momento estou cursando uma especialização em Desenvolvimento FullStack 
