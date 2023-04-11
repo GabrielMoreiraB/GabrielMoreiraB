@@ -1,16 +1,20 @@
 <img align="right" height="500em" src="https://github.com/GabrielMoreiraB/card-gabrielgbm-readme/blob/main/card.svg "/>
 
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Gabriel Moreira</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielmoreirab&color=yellow" alt="Profile views" /> </p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=122A99&width=435&lines=Salve+Dev%2C+sou+o+Gabriel+Moreira!+;Seja+bem+vindo+ao+meu+GitHub+%F0%9F%98%8E)](https://git.io/typing-svg)
 
-- 🔥 Jr Web Developer 
 
-- 👨‍💻 More at [gabrielmoreira.dev]()
+- 👩‍💻 Este é meu portifólio que contém a minha história como Desenvolvedor!
+- 📘 No momento estou cursando uma especialização em Desenvolvimento FullStack 
+- 🎮 Gamer nas horas vagas 
+- Sou fã de animes 
+
+- 👨‍💻 More at [gabrielmoreira.dev](https://www.linkedin.com/in/gabriel-moreira-b2189416b/)
 <br><br>
 
 ## 🛠 &nbsp;Tech Stack
-<!--
+
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+<!--
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 -->
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
