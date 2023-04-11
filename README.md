@@ -12,20 +12,27 @@
 - 👨‍💻 More at [gabrielmoreira.dev](https://www.linkedin.com/in/gabriel-moreira-b2189416b/)
 <br><br>
 
-## 🛠 &nbsp;Tech Stack
+## 🛠 Skill's
 
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-<!--
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
--->
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank" rel="noreferrer">
+<img src="./images/html-5.svg" width="32" height="32" />
+</a>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank" rel="noreferrer">
+<img src="./images/css3.svg" width="32" height="32" />
+</a>
+<a href="https://www.javascript.com" target="_blank" rel="noreferrer">
+<img src="./images/javascript.svg" width="32" height="32" />
+</a>
+<a href="https://pt-br.reactjs.org" target="_blank" rel="noreferrer">
+<img src="./images/react.svg" width="32" height="32" />
+</a>
+<a href="https://git-scm.com" target="_blank" rel="noreferrer">
+<img src="./images/git.svg" width="32" height="32" />
+</a>
 
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-
+<a href="https://code.visualstudio.com" target="_blank" rel="noreferrer">
+<img src="./images/vs-code.svg" width="32" height="32" />
+</a>
 <br><br>
 
 ## ⚙️ &nbsp;GitHub Analytics
