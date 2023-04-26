@@ -7,7 +7,7 @@
 - 👩‍💻 Este é meu portifólio que contém a minha história como Desenvolvedor!
 - 📘 No momento estou cursando uma especialização em Desenvolvimento FullStack 
 - 🎮 Gamer nas horas vagas 
-- Sou fã de animes 
+- 📺 fã de animes 
 
 - 👨‍💻 More at [gabrielmoreira.dev](https://www.linkedin.com/in/gabriel-moreira-b2189416b/)
 <br><br>
